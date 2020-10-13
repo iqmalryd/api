@@ -2,6 +2,7 @@
   "questions": [     
     {
     "id": 1,
+     "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -10,6 +11,7 @@
   },
   {
     "id": 2,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -18,6 +20,7 @@
   },
   {
     "id": 3,
+    "subjectId" : 3,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -26,6 +29,7 @@
   },
   {
     "id": 4,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -34,6 +38,7 @@
   },
   {
     "id": 5,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -42,6 +47,7 @@
   },
   {
     "id": 6,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -50,6 +56,7 @@
   },
   {
     "id": 7,
+    "subjectId" : 3,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -58,6 +65,7 @@
   },
   {
     "id": 8,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -66,6 +74,7 @@
   },
   {
     "id": 9,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -74,6 +83,7 @@
   },
   {
     "id": 10,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -82,6 +92,7 @@
   },
   {
     "id": 11,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -90,6 +101,7 @@
   },
   {
     "id": 12,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -98,6 +110,7 @@
   },
   {
     "id": 13,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
@@ -106,6 +119,7 @@
   },
   {
     "id": 14,
+    "subjectId" : 1,
     "question":
       "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
     "type": "pilihan ganda",
