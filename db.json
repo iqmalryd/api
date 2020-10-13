@@ -1,8 +1,125 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "questions": [
+      {
+    id: 1,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 2,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 3,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 4,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 5,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 6,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 7,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 8,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 9,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 10,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 11,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 12,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 13,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 14,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  },
+  {
+    id: 15,
+    question:
+      "lorem ipsum dolor sit amet awajdasdnasmdnasdask  jasdjashdja asdasd  asdasdasd",
+    type: "pilihan ganda",
+    dateCreated: "2020-10-11",
+    author: "Iqmal Riyadi"
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
