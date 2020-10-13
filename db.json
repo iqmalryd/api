@@ -119,8 +119,7 @@
     "type": "pilihan ganda",
     "dateCreated": "2020-10-11",
     "author": "Iqmal Riyadi"
-  },
-  ],
+  }],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
